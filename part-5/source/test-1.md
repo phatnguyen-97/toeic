@@ -36,7 +36,7 @@
 (C) Although </br>
 (D) Whereas </br>
 
-7. Windpower Co. is faced with financial hardship, so in order to overcome this crisis, ……financial support is needed. </br>
+7. Windpower Co. is faced with financial hardship, so in order to overcome this crisis, ____ financial support is needed. </br>
 (A) extend </br>
 (B) extent </br>
 (C) extensive </br>
@@ -108,7 +108,7 @@
 (C) unexpectedly </br>
 (D) unexpectedness </br>
 
-19. Thanks to the advances in technology the state-of-the-art device is made ______ out of plastic. </br>
+19. Thanks to the advances in technology the state-of-the-art device is made ____ out of plastic. </br>
 (A) totaling </br>
 (B) total </br>
 (C) totally </br>
