@@ -32,9 +32,9 @@
 ---
 6. ____ the recent sales campaign was not as successful as we had expected, our new range of goods has been well reviewed by consumer groups. </br>
 (A) Instead of </br>
-(B) Notwithstanding </br>
+(B) Notwithstanding = Despite: S + V</br>
 (C) Although </br>
-(D) Whereas </br>
+(D) Whereas = but, however...</br>
 ---
 7. Windpower Co. is faced with financial hardship, so in order to overcome this crisis, ____ financial support is needed. </br>
 (A) extend </br>
